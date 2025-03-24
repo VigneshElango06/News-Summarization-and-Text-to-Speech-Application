@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+transformers
+torch
+streamlit
+pydub
+gTTS-token
+googletrans==4.0.0rc1
